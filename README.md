@@ -1,6 +1,6 @@
 # Screenshots
 
-<img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Remember%20Path/Screenshots/Screenshot1.PNG" width="216" height="384">  <img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Remember%20Path/Screenshots/Screenshot2.PNG" width="216" height="384"> <img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Remember%20Path/Screenshots/Screenshot3.PNG" width="216" height="384"> 
+<img src="https://github.com/CaglarAlperen/remember-path-unity/blob/main/Screenshots/Screenshot1.PNG" width="216" height="384">  <img src="https://github.com/CaglarAlperen/remember-path-unity/blob/main/Screenshots/Screenshot2.PNG" width="216" height="384"> <img src="https://github.com/CaglarAlperen/remember-path-unity/blob/main/Screenshots/Screenshot3.PNG" width="216" height="384"> 
 
 # Gameplay
 
